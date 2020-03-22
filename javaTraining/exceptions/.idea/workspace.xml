@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e46ec5-5e13-40f8-aa2b-7b88cebbe359" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Banque/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/CompteDepot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/CompteDepotType1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/CompteDepotType2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banque/src/com/smc/CompteVue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Bibliotheque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Dictionnaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Langue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Manuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/PrixLitteraire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Revue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bibliotheque/src/com/smc/Roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boostrap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boostrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boostrap/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Html CSS/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Html CSS/vues/Accueil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Html CSS/vues/Inscription.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Jquery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Jquery/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Jquery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Jquery/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cours Jquery/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/.idea/Emmanuel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/images/poor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emmanuel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Chien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Insectivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Lezard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Mammifere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Olibrius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Refuge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPOOAnima/src/com/smc/Tapir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hero/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hero/src/com/smc/Arme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hero/src/com/smc/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hero/src/com/smc/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE/eva-services/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE/eva-services/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE/eva-services/src/com/smc/servlets/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE/eva-services/web/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/AbstractJournal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/Evenement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/EvenementNotable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/InvalidValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POOJournal/src/com/smc/Markable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetJquery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetJquery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetJquery/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetJquery/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/demo/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/demo/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/demo/templates/blog/home.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/evaservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/services/home.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/services/listeservices.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/services/newservice.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/utilisateur/loginutilisateur.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/utilisateur/mdpoublie.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Symfony/evaservices/templates/utilisateur/registerutilisateur.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/TwigTuto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwigTuto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../betaTest/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../betaTest/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../betaTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../betaTest/web/infoPHP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursPHP/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursPHP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursPHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smc/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smc/ErrConstException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smc/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontoffice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontoffice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontoffice/src/main/webapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestionStockMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestionStockMVC/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestionStockMVC/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/console/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/console/src/main/java/com/smc/console/ConsoleNumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/GuessCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/MessageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/MessageGeneratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/java/com/smc/config/GameConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/resources/config/game.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/core/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gng/libs/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaEE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monCVBootstrap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monCVBootstrap/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monCVBootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monCVBootstrap/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moshtutojava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/src/main/java/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/src/main/java/IGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/src/main/java/INombreAleatoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/core/src/main/java/NombreAleatoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/nombrealeatoire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nombrealeatoire/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personne/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Directeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Eleve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Professeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personnes/src/com/smc/Secretaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sherpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sherpa/src/com/smc/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sherpa/src/com/smc/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sherpa/src/com/smc/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sherpa/src/com/smc/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/libs/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/java/com/smc/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/java/com/smc/config/WellAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/java/com/smc/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/webapp/WEB-INF/view/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/points/.idea/points.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/points/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/points/src/com/smc/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/points/src/com/smc/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Adresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Banque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/ClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Commande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/CompteBancaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Cuisinier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/CuisinierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/DeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Serveur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/ServeurImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/src/com/company/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/voiture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/voiture/src/com/smc/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/voiture/src/com/smc/Ville.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training/voiture/src/com/smc/Voiture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/libs/sqlite.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/androidTest/java/com/example/christiansandjon/profacile/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/debug/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/ic_logo_profacile-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/ChoixActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/ConnexionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/InscriptionCoachActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/InscriptionEleveActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/MotDePasseOublieActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Adresse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Coordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Cours.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Eleve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Offre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/models/Planning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/tools/DateDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/java/com/example/christiansandjon/profacile/tools/LocationGPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/coach.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/eleve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/etudiants02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/mail_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/prof.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/proff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/profff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/proffff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable-v24/stude.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout-land/activity_connexion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_choix.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_connexion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_inscription_coach.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_inscription_eleve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/layout/activity_mot_de_passe_oublie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-anydpi-v26/ic_logo_profacile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-anydpi-v26/ic_logo_profacile_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-hdpi/ic_logo_profacile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-hdpi/ic_logo_profacile_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-mdpi/ic_logo_profacile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-mdpi/ic_logo_profacile_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xhdpi/ic_logo_profacile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xhdpi/ic_logo_profacile_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxhdpi/ic_logo_profacile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxhdpi/ic_logo_profacile_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxxhdpi/ic_logo_profacile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/mipmap-xxxhdpi/ic_logo_profacile_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/release/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profacile/app/src/test/java/com/example/christiansandjon/profacile/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Users/christiansandjon/Downloads/demo/target/m2e-wtp/web-resources/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/smc/Servlet/Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/smc/Servlet/ValidPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/smc/controller/MaintController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/smc/liste/ListeAF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/smc/liste/ListeAFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/com/smc/demo/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smc/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smc/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smc/ErrConstException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/smc/Compte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/smc/Point.java" />
+        <option value="$PROJECT_DIR$/src/com/smc/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/smc/ErrConstException.java" />
+        <option value="$PROJECT_DIR$/src/com/smc/Compte.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="113" />
+    <option name="y" value="23" />
+    <option name="width" value="1167" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="smc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564653790375" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.smc.Main" />
+      <module name="exceptions" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e46ec5-5e13-40f8-aa2b-7b88cebbe359" name="Default Changelist" comment="" />
+      <created>1564651487266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564651487266</updated>
+      <workItem from="1564651488610" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="113" y="23" width="1167" height="741" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24977778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/smc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smc/ErrConstException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smc/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smc/Compte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b5907d-d12e-4787-a46e-f11125b81fba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/smc/CompteBancaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smc/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/about_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/about_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/about_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_images_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_images_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/blog_single.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/comment_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/comment_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/comment_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/counter_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/course_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/courses_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/event_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/event_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/event_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/footer_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_1_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_2_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_3_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_4_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_5_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/gallery_6_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/home_slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/icon_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/latest_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/latest_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/latest_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/mobile_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/mobile_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/mov_bbb.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/mov_bbb.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/news_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/newsletter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/newsletter_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/partner_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/play_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/teacher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/team_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/team_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/team_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/images/video_play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/blog_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/OwlCarousel2-2.2.1/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/images/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/colorbox/jquery.colorbox-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/greensock/ScrollToPlugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/greensock/TimelineMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/greensock/TweenMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/greensock/animation.gsap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/masonry/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/parallax-js-master/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/scrollmagic/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/plugins/video-js/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/about_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/blog_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/blog_single.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/blog_single_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/bootstrap4/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/bootstrap4/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/bootstrap4/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/contact_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/course.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/course_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/courses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/courses_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/main_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/classes/styles/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacile/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/model/Cours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/model/Eleve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/model/Offre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/model/Postuler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/spring/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/spring/controller/EleveController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/spring/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/java/com/profacile/spring/controller/ProfesseurController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/WEB-INF/root-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/WEB-INF/servlet-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/about_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/about_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/about_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_images_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_images_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/blog_single.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/chris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/comment_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/comment_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/comment_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/counter_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/course_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/courses_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/event_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/event_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/event_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/footer_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_1_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_2_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_3_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_4_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_5_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/gallery_6_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/home_slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/icon_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/latest_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/latest_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/latest_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/mobile_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/mobile_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/mov_bbb.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/mov_bbb.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/news_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/newsletter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/newsletter_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/partner_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/play_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/teacher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/team_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/team_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/team_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/images/video_play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/blog_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/OwlCarousel2-2.2.1/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/images/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/colorbox/jquery.colorbox-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/greensock/ScrollToPlugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/greensock/TimelineMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/greensock/TweenMax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/greensock/animation.gsap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/masonry/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/parallax-js-master/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/scrollmagic/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/plugins/video-js/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/about_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/blog_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/blog_single.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/blog_single_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/bootstrap4/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/bootstrap4/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/bootstrap4/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/contact_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/course.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/course_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/courses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/courses_responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/main_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/resources/styles/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/eleve.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/enseignant.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/headerlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/parametre.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/tableaubord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/admin/tb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/cours.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/enseignant.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/headerlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/offre.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/parametre.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/siderbar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/tb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/eleve/voiroffre.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/website/contact.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/website/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/website/formules.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/website/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/src/main/webapp/views/website/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/classes/com/profacile/model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/classes/com/profacile/model/Cours.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/classes/com/profacile/model/Eleve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/classes/com/profacile/model/Offre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/classes/com/profacile/spring/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projet Profacile /profacileweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annexe 1_18-19 (Info Gestion).doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Dossier_pedagogique_TFE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Fiches_d_evaluation/Document_2_-_Lecteur_-_Informatique.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Logiciels/JetBrain/JetBrains.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Logiciels/Lyx/Lyx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Logiciels/Mind-mapping_Freemind.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Logiciels/Mind-mapping_Xmind.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Logiciels/VisualParadigm/CleActivation2019_VisualParadigm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/MemoireVO18_19.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Memoire_page_de_garde_obligatoire1819.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Reglement_TFE_18-19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Reussir_son_tfe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/TFE_memoire_consignes/Choisir_et_decrire_son_TFE_en_informatique_de_gestion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/TFE_memoire_consignes/Description_sujet_TFE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/TFE_memoire_consignes/TFE_memoire-points_principaux.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-2/Word_exercice_TFE/TFE_memoire_exercice_Word.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-3/DB/pidDB_1819.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-3/Modif_utf8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-3/PID_Projet1819.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline-3/ScrumAssembla.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Liens/Eclipse_BuildShip_gradle.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Liens/Eclipse_SprintBoot.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Projet1819/DB/pidDB_1819.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Projet1819/Modif_utf8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Projet1819/PID_Projet1819.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Projet1819/ScrumAssembla.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Syllabus/.SpringVO.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/TPs/TP01/.PidExemple01.mp4.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/TPs/TPHifi/Tp_Spring1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/TPs/TPHifi/hifiUML.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISFCE Claroline/Tableau/.PID1_34.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaisonPOO/com/smc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaisonPOO/com/smc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaisonPOO/com/smc/Maison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaisonPOO/com/smc/Maison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/smc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/Banque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/CompteDepot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/CompteDepotType1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/CompteDepotType2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/CompteVue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/Banque/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/CompteBancaire.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/lib/apiguardian-api-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/lib/junit-jupiter-api-5.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/lib/junit-platform-commons-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/out/production/CompteBancaire/com/smc/Calculatrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/out/production/CompteBancaire/com/smc/CalculatriceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/out/production/CompteBancaire/com/smc/CompteBancaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/out/production/CompteBancaire/com/smc/CompteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/out/production/CompteBancaire/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/src/com/smc/Calculatrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/src/com/smc/CalculatriceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/src/com/smc/CompteBancaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/src/com/smc/CompteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/CompteBancaire/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/ExamPOOAnimaux.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Carnivore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Chat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Chien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Crocodile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/IAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Insectivore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Lezard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Mammifere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Olibrius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Refuge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Reptile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/out/production/ExamPOOAnimaux/com/smc/Tapir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Carnivore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Chat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Chien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Crocodile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/IAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Insectivore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Lezard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Mammifere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Olibrius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Refuge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Reptile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/ExamPOOAnima/src/com/smc/Tapir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/except.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/out/production/except/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/out/production/except/com/smc/MauvaiseValeurException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/out/production/except/com/smc/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/src/com/smc/MauvaiseValeurException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/except/src/com/smc/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/exceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/out/production/exceptions/com/smc/ErrConstException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/out/production/exceptions/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/out/production/exceptions/com/smc/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/src/com/smc/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/src/com/smc/ErrConstException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/exceptions/src/com/smc/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Etablissement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Etudiant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Personne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Professeur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/out/production/personne/com/smc/Ville.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/personne.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Etablissement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Professeur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personne/src/com/smc/Ville.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Adresse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Directeur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Eleve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Personne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Professeur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/out/production/personnes/com/smc/Secretaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/personnes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Adresse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Directeur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Eleve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Professeur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/personnes/src/com/smc/Secretaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/out/production/sherpa/com/smc/Cercle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/out/production/sherpa/com/smc/Compte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/out/production/sherpa/com/smc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/out/production/sherpa/com/smc/Personne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/sherpa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/src/com/smc/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/src/com/smc/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/src/com/smc/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/sherpa/src/com/smc/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/helloworld/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/out/production/training/META-INF/training.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/points.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/points.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/src/com/smc/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/points/src/com/smc/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Adresse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Banque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/ClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Commande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/CompteBancaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Cuisinier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/CuisinierImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/De.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/DeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Serveur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/ServeurImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/company/Voiture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/Belge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/CompteBancaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/CompteCourant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/CompteEpargne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/src/com/smc/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/trainingg/trainingg.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/src/com/smc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/src/com/smc/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/src/com/smc/Ville.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/src/com/smc/Voiture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nassim/training/voiture/voiture.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet Profacile /Rapport_PID_Sandjon_Motio_Christian.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projet Profacile /profacileRepo" beforeDir="false" afterPath="$PROJECT_DIR$/../Projet Profacile /profacileRepo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rapport_de_PID_Christian_Sandjon.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cakePHP.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cakePHP/La veille Technologique(CakePHP).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cakePHP/Veille Technologique CakePHP Sandjon Motio Christian .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Page 6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Verso 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/Examen Math Verso.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cedric examen/WhatsApp Image 2019-07-15 at 10.06.34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chrisPortrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/Info2 intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 Controle.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 algorithme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 donneģes(1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 donneģes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 langage algorithmique.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 orientation objet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 sous-programmes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luka nuti/info2 tableau et reěpeětition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileWebApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/SpringMVC-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/Index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/Toto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Cours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Eleve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Offre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Personne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/model/Postuler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/spring/controller/EleveController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/spring/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/profacile/spring/controller/ProfesseurController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/classes/com/test/servlet/TestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/aspectjrt-1.8.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/bcmail-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/bcmail-jdk14-138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/bcprov-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/bcprov-jdk14-138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/bctsp-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/castor-core-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/castor-xml-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-beanutils-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-dbcp-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-digester-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/commons-pool-1.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/core-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/ecj-4.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/gson-2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/hibernate-commons-annotations-4.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/hibernate-core-4.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/icu4j-57.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/itext-2.1.7.js5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jackson-core-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jackson-core-asl-1.9.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jackson-mapper-asl-1.9.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jakarta-regexp-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jasperreports-6.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jboss-logging-3.1.0.CR2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jcommon-1.0.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jfreechart-1.0.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/lucene-analyzers-common-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/lucene-core-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/lucene-queries-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/lucene-queryparser-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/lucene-sandbox-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/mysql-connector-java-5.1.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/olap4j-0.9.7.309-JS-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-aop-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-beans-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-context-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-context-support-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-core-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-data-commons-2.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-data-jpa-2.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-expression-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-jdbc-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-orm-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-tx-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-web-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/spring-webmvc-4.2.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/stax-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/stax-api-1.0-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/stax-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/lib/xml-apis-1.0.b2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/root-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/about_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/about_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/about_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_images_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_images_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/blog_single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/chris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/comment_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/comment_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/comment_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/counter_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/course_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/courses_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/event_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/event_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/event_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/footer_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_1_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_2_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_3_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_4_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_5_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/gallery_6_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/home_slider_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/icon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/icon_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/icon_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/icon_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/latest_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/latest_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/latest_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/mobile_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/mobile_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/mov_bbb.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/mov_bbb.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/news_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/newsletter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/newsletter_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/partner_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/play_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/slider2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/slider3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/slider4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/slider5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/teacher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/team_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/team_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/team_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/team_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/team_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/images/video_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/blog_single.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/OwlCarousel2-2.2.1/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/images/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/images/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/colorbox/jquery.colorbox-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/easing/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/greensock/ScrollToPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/greensock/TimelineMax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/greensock/TweenMax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/greensock/animation.gsap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/masonry/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/parallax-js-master/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/scrollmagic/ScrollMagic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/video-js/video-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/plugins/video-js/video.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/about_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/blog_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/blog_single.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/blog_single_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/bootstrap4/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/bootstrap4/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/bootstrap4/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/contact_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/course.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/course_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/courses.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/courses_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/main_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/resources/styles/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/eleve.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/enseignant.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/headerlog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/parametre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/tableaubord.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/admin/tb.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/cours.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/enseignant.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/headerlog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/meseleves.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/offre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/offrepostuler.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/parametre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/register2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/coach/tb.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/cours.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/enseignant.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/headerlog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/offre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/parametre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/siderbar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/tb.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/eleve/voiroffre.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/website/contact.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/website/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/website/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/SpringMVC/views/website/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Cours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Eleve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Offre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Personne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/model/Postuler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/spring/controller/EleveController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/spring/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/classes/com/profacile/spring/controller/ProfesseurController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb - sauvegarde/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/resources/images/chris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/cours.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/cours.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/enseignant.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/enseignant.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/siderbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/eleve/siderbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/meseleves.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/meseleves.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/offre.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/offre.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/offrepostuler.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/offrepostuler.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/parametre.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/parametre.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/register2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/register2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/siderbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/siderbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/tb.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/professeur/tb.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/contact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/contact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../profacileweb/target/SpringMVC/views/website/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rapport stage africa eats/Mpuninu Pistis stage d'ntregation  corrigé.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rapport stage africa eats/Rapport_de_stage_Christian_Sandjon_Philippe_KOUMI.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sacha mysherpa/sys8.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="93" />
+    <option name="y" value="23" />
+    <option name="width" value="1129" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectId" id="1PuoDxkAgUP7auxbubyQs0VeB0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564759031518" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.smc.Main" />
+      <module name="MaisonPOO" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smc.Main2" />
+      <module name="MaisonPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b5907d-d12e-4787-a46e-f11125b81fba" name="Default Changelist" comment="" />
+      <created>1564754794346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564754794346</updated>
+      <workItem from="1564754796251" duration="4287000" />
+      <workItem from="1564759244133" duration="2659000" />
+      <workItem from="1566733229415" duration="2013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
